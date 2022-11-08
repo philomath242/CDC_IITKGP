@@ -1,0 +1,1 @@
+{"name":"Local: UBER_DPOnTrees","url":"m:\\Competitive Programming\\CDC\\UBER_DPOnTrees.cpp","tests":[{"id":1665824003012,"input":"6\n1 2 5\n1 3 10\n2 4 2\n3 5 3\n6 5 2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"m:\\Competitive Programming\\CDC\\UBER_DPOnTrees.cpp","group":"local","local":true}

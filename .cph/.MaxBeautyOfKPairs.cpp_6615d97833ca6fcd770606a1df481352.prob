@@ -1,0 +1,1 @@
+{"name":"Local: MaxBeautyOfKPairs","url":"m:\\Competitive Programming\\CDC\\MaxBeautyOfKPairs.cpp","tests":[{"id":1665822596666,"input":"5\n3\n4 2\n2 3\n3 4\n1 5\n2 7","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"m:\\Competitive Programming\\CDC\\MaxBeautyOfKPairs.cpp","group":"local","local":true}
